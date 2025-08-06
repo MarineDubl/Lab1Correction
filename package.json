@@ -21,6 +21,7 @@
   "homepage": "https://github.com/MarineDubl/Lab1Correction#readme",
   "dependencies": {
     "express": "^4.21.2",
+    "mongodb": "^6.18.0",
     "path": "^0.12.7"
   }
 }
